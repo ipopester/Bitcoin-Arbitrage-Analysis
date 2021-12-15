@@ -8,9 +8,9 @@ The analysis was performed using python 3.7 and is designed to be executed throu
 
 * [python](https://www.python.org/downloads/) 3.7.11 
 
-* [pandas](https://pandas.pydata.org/docs/) 1.10.0
+* [pandas](https://pandas.pydata.org/docs/) 1.3.5
 
-* [jupyter](https://jupyterlab.readthedocs.io/en/stable/) 0.4.0
+* [jupyter](https://jupyterlab.readthedocs.io/en/stable/) 3.2.4
 ___
 
 ## Installation Guide
